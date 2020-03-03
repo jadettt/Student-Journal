@@ -3,11 +3,11 @@ The reflections folder will be used to record your thinking and mindset so you c
 
 ## Wednesday Session - Research Effectivly
 - What is a method you use/used to help you research effectively? ( use this link to go over our slides from that day https://www.canva.com/design/DAD0yasIplc/M9LfksTwl9Ze0waJTwUEZw/view?utm_content=DAD0yasIplc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink )
-I simply used google for all my research because it was effective and easy.
+
 - If not, what is a method you want to start using? why?
 
 - Do you think researching is important? why?
-Yes, because otherwise you will just get stuck and not progress at all.
+
 
 
 Thanks for sharing this, if you have any problems im always up for an open dicussion
