@@ -6,7 +6,7 @@ The reflections folder will be used to record your thinking and mindset so you c
 - What do you do when you get stuck with a problem? 
 
 - Out of the methods from the slide what one do you think you will use going forward? ( slide = https://www.canva.com/design/DAD1RtezvCE/rDnyjsiLmAKgwoIxWEBfUw/view?utm_content=DAD1RtezvCE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
+Googling
 - How are you with asking your pairing partner questions? 
 
 
