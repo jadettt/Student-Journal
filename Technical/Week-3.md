@@ -3,9 +3,10 @@ Monday 9th March 2020
 
 # Monday Session - HTML & CSS
 ## HTML
-- What does HTML stand for?
+- What does HTML stand for? Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.
+"an HTML file"
 
-- what is HTMl used for?
+- what is HTMl used for?HTML is used to create electronic documents (called pages) that are displayed on the World Wide Web. Each page contains a series of connections to other pages called hyperlinks.
 
 - What do these tags stand for? and can you show an example of using them ( in here is fine )
   - <a></a>
@@ -21,9 +22,10 @@ Monday 9th March 2020
 
 
 ## CSS
-- what does CSS stand for?
+- what does CSS stand for? 
+Cascading Style Sheet
 
-- What do i use CSS style sheet for?
+- What do i use CSS style sheet for? CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers
 
 - Show me some examples in the below of some css you can add to these tags:
 
